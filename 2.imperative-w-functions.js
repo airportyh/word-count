@@ -1,7 +1,9 @@
+/*
+
+*/
 "use strict"
 const fs = require('fs');
 
-// reads the contents of the file as one big string
 let content = fs.readFileSync('words.txt').toString();
 
 let words = splitIntoWords(content)
