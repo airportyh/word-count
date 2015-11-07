@@ -12,6 +12,11 @@ If you want to run these examples, you need Node.js version 5.0+.
 git clone https://github.com/airportyh/word-count.git
 cd word-count
 npm install
-node 1.imperative.js # or any of the other .js files
+```
+
+To run one of the files, simply type `node <name of the file>`, for example:
+
+```
+node 1.imperative.js
 ```
 
