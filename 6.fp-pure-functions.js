@@ -19,7 +19,7 @@ printTop10(top10);
 /* ---- pure functions --------------- */
 
 function splitWords(text) {
-  return content.split(/[\s.,\/:\n]+/);
+  return text.split(/[\s.,\/:\n]+/);
 }
 
 function tallyUp(words) {

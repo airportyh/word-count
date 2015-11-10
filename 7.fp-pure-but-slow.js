@@ -4,7 +4,7 @@ even further as an exercise. A pure expression is an expression that has
 no side effects. This program is based-on program 6, and it
 maximizes the amount of code written in this "pure" form. With the
 exception of 4 lines, every line in this program is a pure expression.
-Moreover, the almost the entire program has been written as one big
+Moreover, almost the entire program has been written as one big
 pure function: program.
 
 Two of the support functions: sorted and merge - although have the
