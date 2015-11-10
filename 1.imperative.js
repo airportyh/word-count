@@ -1,6 +1,6 @@
 /*
 
-This program implements the program in a straight-forward, straigt-line
+This program implements the program in a straight-forward, straight-line
 fashion, using the imperative style, which just means we write a series
 of commands, and each of these commands can modify the state of the
 program in some way. It is the style we inherited from C and even older
