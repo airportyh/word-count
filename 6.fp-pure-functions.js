@@ -3,7 +3,7 @@ This program is a refactoring of program 5 by extracting a set of "pure" functio
 A pure function (https://en.wikipedia.org/wiki/Pure_function) is a function which
 introduces no side-effects (any effects other than its return value), and which always
 returns the same result given the same input. Three such functions were extracted:
-splitWords, getTally, and getTallyAsArray.
+splitWords, tallyUp, and getTop10.
 
 This code mirrors the structure of program 2.
 */
