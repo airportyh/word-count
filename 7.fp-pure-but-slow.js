@@ -102,7 +102,7 @@ function renderTop10(top10) {
     '--------------------------------'
   ].concat(
     top10.map(function(entry, rank) {
-      return rank + '. ' + entry.word + ': ' + entry.count;
+      return (rank + 1) + '. ' + entry.word + ': ' + entry.count;
     })
   ).join('\n');
 }
